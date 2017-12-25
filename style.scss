@@ -18,9 +18,9 @@ html {
 }
 
 body {
-	background: #222233;
+  background: #222233;
   font: 18px/1.4 $helvetica;
-  color: $darkGray;
+  color: #AACCFF;
 }
 
 .container {
@@ -47,7 +47,7 @@ h1, h2, h3, h4, h5, h6 {
 h1 {
   font-size: 30px;
   a {
-    color: inherit;
+    color: #AACCFF;
   }
 }
 
@@ -61,7 +61,7 @@ h3 {
 
 h4 {
   font-size: 18px;
-  color: $gray;
+  color: #AACCFF;
 }
 
 p {
@@ -117,7 +117,7 @@ img {
 
 .date {
   font-style: italic;
-  color: $gray;
+  color: #AACCFF;
 }
 
 // Specify the color of the selection
@@ -225,7 +225,7 @@ nav {
 
   a {
     margin-left: 20px;
-    color: $darkGray;
+    color: #AACCFF;
     text-align: right;
     font-weight: 300;
     letter-spacing: 1px;
